@@ -4,10 +4,10 @@ Processo feito com o visual Studio code.
 A inicialização é feita com npm init
 É necessario instalar as seguintes dependencias :
 
-Express
-Jest
-Superteste
-Nodemon
+Express,
+Jest,
+Superteste e
+Nodemon.
 
 para executar os testes das operações usar o comando npm test.
 
